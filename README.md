@@ -15,9 +15,9 @@
 
 #### 使用说明
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+1.  yarn install 安装依赖
+2.  node app 运行应用程序
+3.  cd ./downloadPic node download.js 进行下载
 
 #### 参与贡献
 
